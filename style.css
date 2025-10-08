@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    color: black;
+}
+
+input{
+    border-color: chartreuse;
+    width:fit-content
+}
+
+button{
+    background-color: chartreuse;
+    color: #ffffff;
+    border-color: chartreuse;
+    font-weight: bold;
+}
+
+#deleteall{
+    background-color: #ffffff;
+    color:chartreuse;
+    font-weight: bold;
+    border-color: chartreuse;
+}
